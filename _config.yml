@@ -1,9 +1,20 @@
-title: MettleCI NextGen Docs
+title: MettleCI NextGen
 description: Documentation for MettleCI running on DataStage NextGen
 theme: just-the-docs
 
 url: https://nextgen.mettleci.io
 
 aux_links:
-#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
   Legacy Docuemntation: http://docs.mettleci.io/
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+
+nav_external_links:
+  - title: MettleCI Standalone Docs
+    url: http://docs.mettleci.io/
+  - title: Server-to-Parallel Conversion
+    url: http://s2px.mettleci.io/
+
+
