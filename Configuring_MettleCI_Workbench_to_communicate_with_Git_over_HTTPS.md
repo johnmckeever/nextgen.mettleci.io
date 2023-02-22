@@ -1,3 +1,7 @@
+layout: page
+title: "Configuring MettleCI Workbench to communicate with Git over HTTPS"
+permalink: /
+
 # Configuring MettleCI Workbench to communicate with Git over HTTPS
 
 **Note**
