@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: MettleCI NextGen Docs
+description: Documentation for MettleCI running on DataStage NextGen
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nextgen.mettleci.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Legacy Docuemntation: http://docs.mettleci.io/
