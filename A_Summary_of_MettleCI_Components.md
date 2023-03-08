@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "A Summary of MettleCI Components"
-permalink: /install
 ---
 
 # A Summary of MettleCI Components
